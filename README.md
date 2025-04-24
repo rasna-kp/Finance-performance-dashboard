@@ -4,7 +4,7 @@ an overview of the company's financial metrics enabling stakeholders to make inf
 Overview: This Power BI finance dashboard provides a high-level view of the company’s financial performance over time. It highlights key metrics such as Total Sales, Profit, Units Sold, and Average Discount %.
 The top section includes KPI cards for instant performance tracking, while the central area visualizes Sales and Profit trends over time using a line chart.Additional visuals such as bar charts for Profit by Country
 and Sales by Product Segment help identify top-performing regions and products.Users can interact with the dashboard using slicers for Year, Month, Segment, and Country, allowing flexible analysis of financial data.
-Overall, this dashboard enables business stakeholders to quickly identify trends, make data-driven decisions, and monitor key performance indicators in real-time.”
+Overall, this dashboard enables business stakeholders to quickly identify trends, make data-driven decisions, and monitor key performance indicators in real-time.
 
 Key Features:
 KPI cards for Total Sales, Profit, Units Sold, and Average Discount %
