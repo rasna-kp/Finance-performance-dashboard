@@ -1,4 +1,4 @@
-Problem Statement : Thegoal of this Power BI Dashboard Project is to analyze the financial performance of a company using the provided Microsoft Sample Data.To create a visually appealing dashboard that provides
+Problem Statement : The goal of this Power BI Dashboard Project is to analyze the financial performance of a company using the provided Microsoft Sample Data.To create a visually appealing dashboard that provides
 an overview of the company's financial metrics enabling stakeholders to make informed business decisions.
 
 Overview: This Power BI finance dashboard provides a high-level view of the company’s financial performance over time. It highlights key metrics such as Total Sales, Profit, Units Sold, and Average Discount %.
