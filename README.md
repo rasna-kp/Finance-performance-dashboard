@@ -7,11 +7,11 @@ and Sales by Product Segment help identify top-performing regions and products.U
 Overall, this dashboard enables business stakeholders to quickly identify trends, make data-driven decisions, and monitor key performance indicators in real-time.
 
 Key Features:
-KPI cards for Total Sales, Profit, Units Sold, and Average Discount %
-Line chart tracking Sales and Profit over time
-Bar charts for analyzing Sales by Segment and Profit by Country
-Top Products by Revenue visual
-Slicers for Year, Country, Segment, and Product for flexible analysis
-Applied best practices in data cleaning, modeling, and DAX
+
+- 💰 Total Sales, Profit, and Units Sold – displayed using dynamic KPI cards
+- 📈 Sales & Profit Trend over time – line chart by Date
+- 📊 Profit by Country and Sales by Segment – bar visuals
+- 🏆 Top Products by Revenue – ranked visualization
+- 🔄 Slicers for Year, Product, Country, and Segment – for flexible analysis
 
  If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
